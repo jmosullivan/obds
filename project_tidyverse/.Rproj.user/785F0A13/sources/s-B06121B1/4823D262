@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602585120581.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4823D262",
+    "lastKnownWriteTime" : 1602665852,
+    "last_content_update" : 1602665938987,
+    "path" : "~/obds/project_tidyverse/plotting.R",
+    "project_path" : "plotting.R",
+    "properties" : {
+        "cursorPosition" : "88,61",
+        "scrollLine" : "69",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
